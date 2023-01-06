@@ -12,4 +12,9 @@ html {
 
 header { 
     font-family: 'Merienda';
-    } 
+    }  
+    
+     img {
+    width: 400px;
+    height: 400px;
+    }
