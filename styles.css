@@ -1,0 +1,15 @@
+/*
+background color #497174 
+font color #EB6440  
+*/  
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300;500;600;800&display=swap');
+
+html {
+    font-size: 90.5%;
+    background-color: #497174
+}
+
+header { 
+    font-family: 'Merienda';
+    } 
